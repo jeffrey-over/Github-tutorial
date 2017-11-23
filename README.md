@@ -72,6 +72,7 @@ CMD+SHIFT+P laat de command pallete zien met alle funties in VS Code. Ook de Git
   1. Wanneer je klikt op een specifieke change. laat het exact zien wat er is gewijzgd ivm de GIT-versie. Linkerkant is de GIT versie en aan de rechterkant wordt de lokale versie getoond.
 
 #### Git branches in VS Code
+Via command branche add branche. Vervolgens via gebruikelijke manier pushen naar origin. Dit kan ook via de cloud-icon dat in de statusbalk verschijnt.
 
 ### Sources:
 https://www.youtube.com/watch?v=VOwyH2-VCVY
