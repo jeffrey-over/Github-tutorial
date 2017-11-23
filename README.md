@@ -71,7 +71,7 @@ CMD+SHIFT+P laat de command pallete zien met alle funties in VS Code. Ook de Git
 1. Wijzig een stukje code ter test. Ga naar de Git tab. Hier verschijnt een indicator welke wijzigen er zijn gedaan en wordt er aangegeven welke changes zijn gemaakt. M= modified, A= added, D= deleted. Dit wordt ook gekenmerkt in kleur, naast de regelgeving.
   1. Wanneer je klikt op een specifieke change. laat het exact zien wat er is gewijzgd ivm de GIT-versie. Linkerkant is de GIT versie en aan de rechterkant wordt de lokale versie getoond.
 
-#### Git branches in VS Code
+### Git branches in VS Code
 Via command branche add branche. Vervolgens via gebruikelijke manier pushen naar origin. Dit kan ook via de cloud-icon dat in de statusbalk verschijnt.
 
 ### Sources:
@@ -82,9 +82,7 @@ https://www.youtube.com/watch?v=0fKg7e37bQE&t=131s
 http://try.github.io/
 
 ### Tips
-
 #### Undo last commit-functie
-
 #### Local gelijk trekken met wat in github staat
 https://stackoverflow.com/questions/1628088/reset-local-repository-branch-to-be-just-like-remote-repository-head
 
