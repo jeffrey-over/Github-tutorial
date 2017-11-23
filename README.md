@@ -83,6 +83,8 @@ http://try.github.io/
 
 ### Tips
 #### Undo last commit-functie
+Wanneer er een fout blijkt te zitten in je gecommite versie.
+
 #### Local gelijk trekken met wat in github staat
 https://stackoverflow.com/questions/1628088/reset-local-repository-branch-to-be-just-like-remote-repository-head
 
